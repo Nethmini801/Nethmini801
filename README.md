@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 # <img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="Coder GIF" width="500" height="400" align="center">
 ## 📫 Reach me on
 [![Facebook Badge](https://img.shields.io/badge/-NethminiNisansala-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nethmini.nisansala.5/)](https://www.facebook.com/nethmini.nisansala.5/)
