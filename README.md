@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# <img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="Coder GIF" width="500" height="400" align="center">
 ## 📫 Reach me on
 [![Facebook Badge](https://img.shields.io/badge/-NethminiNisansala-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nethmini.nisansala.5/)](https://www.facebook.com/nethmini.nisansala.5/)
 [![Instagram Badge](https://img.shields.io/badge/-_.nethmini_mahadurage._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.nethmini_mahadurage._/)](https://www.instagram.com/_.nethmini_mahadurage._/)
@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![FireBase](https://img.shields.io/badge/-FireBase-red?style=flat-square&logo=Firebase)
 
-![image](https://github.com/Mithila-Panagoda/Mithila-Panagoda/blob/master/dino.gif)
+<span style="display:block;text-align:center"><img src="https://64.media.tumblr.com/161f840f401e4b3ce058326f19879c74/tumblr_pf5eh780P51qcy62fo1_500.gifv" alt="Coder GIF" width="600" height="280" align="center"></span>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nethmini801.Nethmini801)
 
