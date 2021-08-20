@@ -3,9 +3,14 @@
 ## 📫 Reach me on
 [![Facebook Badge](https://img.shields.io/badge/-NethminiNisansala-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nethmini.nisansala.5/)](https://www.facebook.com/nethmini.nisansala.5/)
 [![Instagram Badge](https://img.shields.io/badge/-_.nethmini_mahadurage._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.nethmini_mahadurage._/)](https://www.instagram.com/_.nethmini_mahadurage._/)
-[![Linkedin Badge](https://img.shields.io/badge/-Mithila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)](https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)
 [![Gmail Badge](https://img.shields.io/badge/-nisansalanethmini123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nisansalanethmini123@gmail.com)](nisansalanethmini123@gmail.com)
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-Mithila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)](https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)
+-->
 
+
+## 🙋‍♀️ About me
+ I am Currently an undergraduate at [SLIIT]. Studying Computer Science(software engineering).
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -25,6 +30,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![FireBase](https://img.shields.io/badge/-FireBase-red?style=flat-square&logo=Firebase)
+
+![image](https://github.com/Mithila-Panagoda/Mithila-Panagoda/blob/master/dino.gif)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nethmini801.Nethmini801)
+
 <!--
 Here are some ideas to get you started:
 
