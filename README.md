@@ -10,7 +10,7 @@
 
 
 ## 🙋‍♀️ About me
- I am Currently an undergraduate at [SLIIT]. Studying Computer Science(software engineering).
+ "I am a software engineer at HCL Tech, where I work on SAP ABAP projects. I have a BSc in Computer Science from Curtin University in Australia and specialize in [Software Enigineering].".
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
