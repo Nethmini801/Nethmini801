@@ -33,7 +33,9 @@
 
 <span style="display:block;text-align:center"><img src="https://64.media.tumblr.com/161f840f401e4b3ce058326f19879c74/tumblr_pf5eh780P51qcy62fo1_500.gifv" alt="Coder GIF" width="600" height="280" align="center"></span>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nethmini801.Nethmini801)
 
 <!--
