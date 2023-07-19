@@ -24,7 +24,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -32,32 +31,15 @@
 ![FireBase](https://img.shields.io/badge/-FireBase-red?style=flat-square&logo=Firebase)
 
 <span style="display:block;text-align:center"><img src="https://64.media.tumblr.com/161f840f401e4b3ce058326f19879c74/tumblr_pf5eh780P51qcy62fo1_500.gifv" alt="Coder GIF" width="600" height="280" align="center"></span>
-
-### Socials
-
-<p align="left"> <a href="https://www.behance.com/nethminisansala1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nethmini801" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Nethmini801"><img src="https://github-readme-stats.vercel.app/api?username=Nethmini801&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Nethmini801's GitHub stats" /></a>
 
-<a href="http://www.github.com/Nethmini801"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nethmini801&bg_color=1e3a8a&color=ffffff&line=facc15&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Nethmini801" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmini801&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nethmini801.Nethmini801)
 
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
