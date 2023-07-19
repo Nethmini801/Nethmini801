@@ -30,10 +30,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![FireBase](https://img.shields.io/badge/-FireBase-red?style=flat-square&logo=Firebase)
 
-<span style="display:block;text-align:center"><img src="https://64.media.tumblr.com/161f840f401e4b3ce058326f19879c74/tumblr_pf5eh780P51qcy62fo1_500.gifv" alt="Coder GIF" width="600" height="280" align="center"></span>
-
-### Badges
 <b>My GitHub Stats</b>
+
 <a href="https://github.com/Nethmini801" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmini801&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nethmini801.Nethmini801)
