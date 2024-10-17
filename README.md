@@ -10,7 +10,7 @@
 
 
 ## 🙋‍♀️ About me
- "I am a software engineer at HCL Tech, where I work on SAP ABAP projects. I have a BSc in Computer Science from Curtin University in Australia and specialize in [Software Enigineering].".
+ "I am a former software engineer at HCL Tech, where I work on SAP ABAP projects. I have a BSc in Computer Science from Curtin University in Australia and specialize in [Software Enigineering]. Currently, I am doing my masters in business analytics at Edith Cowan University in Australia".
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
